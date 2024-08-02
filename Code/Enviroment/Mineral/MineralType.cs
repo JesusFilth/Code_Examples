@@ -1,0 +1,1 @@
+﻿public enum MineralType { Stone, Wood, Iron }
